@@ -1,7 +1,8 @@
 # Android-software
 نرم افزار های اندروید
 
-<ul>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <ul>
         <li>
             <p>نرم‌افزار اندروید:</p>
             <ul>
@@ -62,3 +63,4 @@
             </ul>
         </li>
     </ul>
+</div>
